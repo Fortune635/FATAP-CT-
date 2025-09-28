@@ -1,5 +1,5 @@
 
-# FATAPCT – Fortune’s AI Tech and STEM Project
+# FATAP-CT – Fortune’s AI Tech STEM and SDG Project
 
 **Owner:** Fortune (Founder of FATAP)  
 **Focus Area:** SDG 9 – Industry, Innovation, and Infrastructure  
