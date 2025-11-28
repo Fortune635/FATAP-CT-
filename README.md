@@ -1,13 +1,14 @@
 
 # FATAP-CT – Fortune’s AI Tech STEM and SDG Project
 
-**Owner:** Fortune (Founder of FATAP-CT)  
+**Owner:** Fortune Akioya  (Founder of FATAP-CT)  
 **Focus Area:** SDG 9 – Industry, Innovation, and Infrastructure  
-
+Try app
+https://share.google/OMHmrcqk1iZtnXuGU
 ---
 
 ## 🌍 Project Overview
-FATAPCT is an innovation hub designed to empower young people—especially those in underserved communities—with **STEM knowledge** and **Smart Tech training** through **collaborative learning methods** like hackathons, competitions, and mentorship.
+FATAPCT is an innovation hub designed to empower young people—imcluding those in underserved communities—with **STEM knowledge** **Computer**  and **Smart Tech training** and **Market Plaace** through **collaborative learning methods** like hackathons, competitions,collaboratiom , market place  and mentorship.
 
 By combining **STEM mathematics**, **computer programming**, **hardware/software skills**, and **smart tech repairs,sales,and innovations**, FATAPCT helps youth build the skills they need to **innovate, create businesses, and thrive in the smart tech industry**.
 
